@@ -1,0 +1,41 @@
+body
+{
+  background-size: cover; 
+  background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+.open
+{
+    border-color: black;
+    border-radius: 50px;
+    box-shadow: 5px 5px 18px red;
+    position: fixed;
+}
+
+.open2
+{
+    border-color: black;
+    border-radius: 50px;
+    box-shadow: 5px 5px 18px red;
+    position: fixed;
+}
+
+.open3
+{
+    border-color: black;
+    border-radius: 50px;
+    box-shadow: 5px 5px 18px red;
+    position: fixed;
+}
